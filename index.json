@@ -1,25 +1,5 @@
 [
   {
-    "id": "golden-surge-shuu",
-    "title": "Golden Surge",
-    "author": "adhd.dev",
-    "sourceType": "svg",
-    "particleConfig": {
-      "particleDensity": 2,
-      "particleSize": 2,
-      "mouseRadius": 60,
-      "mouseForce": 0.5,
-      "returnSpeed": 0.08,
-      "animationMode": "none",
-      "interactionMode": "glow",
-      "waveSpeed": 0.005,
-      "colorMode": "original",
-      "backgroundColor": "#0a0a0a"
-    },
-    "isPublic": false,
-    "createdAt": "2026-03-22T15:03:56.311Z"
-  },
-  {
     "id": "drifting-flame-o998",
     "title": "Drifting Flame",
     "author": "adhd.dev",
