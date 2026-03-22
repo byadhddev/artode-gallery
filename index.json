@@ -78,5 +78,29 @@
     },
     "isPublic": true,
     "createdAt": "2026-03-22T15:04:39.179Z"
+  },
+  {
+    "id": "gentle-tide-xq1u",
+    "title": "Gentle Tide",
+    "author": "adhd.dev",
+    "sourceType": "image",
+    "particleConfig": {
+      "particleDensity": 3,
+      "particleSize": 2,
+      "mouseRadius": 80,
+      "mouseForce": 0.7,
+      "returnSpeed": 0.18,
+      "animationMode": "twinkle",
+      "interactionMode": "ripple",
+      "waveSpeed": 0.012,
+      "colorMode": "original",
+      "backgroundColor": "#0a0a0a",
+      "spread": 0.75,
+      "trailLength": 0.3,
+      "particleShape": "dot",
+      "shapeMix": 0.5
+    },
+    "isPublic": true,
+    "createdAt": "2026-03-22T17:07:07.927Z"
   }
 ]
