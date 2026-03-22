@@ -58,5 +58,25 @@
     },
     "isPublic": true,
     "createdAt": "2026-03-22T15:15:47.499Z"
+  },
+  {
+    "id": "drifting-flame-o998",
+    "title": "Drifting Flame",
+    "author": "adhd.dev",
+    "sourceType": "image",
+    "particleConfig": {
+      "particleDensity": 3,
+      "particleSize": 1.5,
+      "mouseRadius": 60,
+      "mouseForce": 0.5,
+      "returnSpeed": 0.08,
+      "animationMode": "float",
+      "interactionMode": "glow",
+      "waveSpeed": 0.014,
+      "colorMode": "original",
+      "backgroundColor": "#0a0a0a"
+    },
+    "isPublic": true,
+    "createdAt": "2026-03-22T15:04:39.179Z"
   }
 ]
