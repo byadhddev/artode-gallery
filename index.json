@@ -1,0 +1,22 @@
+[
+  {
+    "id": "gilded-stone-q7be",
+    "title": "Gilded Stone",
+    "author": "adhd.dev",
+    "sourceType": "image",
+    "particleConfig": {
+      "particleDensity": 2,
+      "particleSize": 2,
+      "mouseRadius": 60,
+      "mouseForce": 0.5,
+      "returnSpeed": 0.08,
+      "animationMode": "none",
+      "interactionMode": "glow",
+      "waveSpeed": 0.005,
+      "colorMode": "original",
+      "backgroundColor": "#0a0a0a"
+    },
+    "isPublic": true,
+    "createdAt": "2026-03-22T15:27:27.987Z"
+  }
+]
