@@ -38,5 +38,25 @@
     },
     "isPublic": false,
     "createdAt": "2026-03-22T15:09:36.061Z"
+  },
+  {
+    "id": "opal-petal-9bro",
+    "title": "Opal Petal",
+    "author": "adhd.dev",
+    "sourceType": "image",
+    "particleConfig": {
+      "particleDensity": 3,
+      "particleSize": 1.5,
+      "mouseRadius": 185,
+      "mouseForce": 1,
+      "returnSpeed": 0.2,
+      "animationMode": "twinkle",
+      "interactionMode": "nudge",
+      "waveSpeed": 0.02,
+      "colorMode": "original",
+      "backgroundColor": "#0a0a0a"
+    },
+    "isPublic": false,
+    "createdAt": "2026-03-22T15:15:47.499Z"
   }
 ]
