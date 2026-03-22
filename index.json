@@ -18,5 +18,25 @@
     },
     "isPublic": true,
     "createdAt": "2026-03-22T15:27:27.987Z"
+  },
+  {
+    "id": "silent-ripple-syph",
+    "title": "Silent Ripple",
+    "author": "adhd.dev",
+    "sourceType": "image",
+    "particleConfig": {
+      "particleDensity": 3,
+      "particleSize": 1.5,
+      "mouseRadius": 60,
+      "mouseForce": 0.5,
+      "returnSpeed": 0.13,
+      "animationMode": "scatter",
+      "interactionMode": "nudge",
+      "waveSpeed": 0.016,
+      "colorMode": "original",
+      "backgroundColor": "#0a0a0a"
+    },
+    "isPublic": true,
+    "createdAt": "2026-03-22T15:09:36.061Z"
   }
 ]
