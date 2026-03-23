@@ -102,5 +102,29 @@
     },
     "isPublic": true,
     "createdAt": "2026-03-22T17:07:07.927Z"
+  },
+  {
+    "id": "golden-void-f8en",
+    "title": "Golden Void",
+    "author": "adhd.dev",
+    "sourceType": "image",
+    "particleConfig": {
+      "particleDensity": 2,
+      "particleSize": 2,
+      "mouseRadius": 50,
+      "mouseForce": 0.3,
+      "returnSpeed": 0.08,
+      "animationMode": "wave",
+      "interactionMode": "nudge",
+      "waveSpeed": 0.006,
+      "colorMode": "monochrome",
+      "backgroundColor": "#1a1a18",
+      "spread": 0.8,
+      "particleShape": "square",
+      "shapeMix": 0,
+      "trailLength": 0
+    },
+    "isPublic": true,
+    "createdAt": "2026-03-23T05:22:32.766Z"
   }
 ]
