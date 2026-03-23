@@ -126,5 +126,29 @@
     },
     "isPublic": true,
     "createdAt": "2026-03-23T05:22:32.766Z"
+  },
+  {
+    "id": "saffron-blaze-p3op",
+    "title": "Saffron Blaze",
+    "author": "adhd.dev",
+    "sourceType": "image",
+    "particleConfig": {
+      "particleDensity": 3,
+      "particleSize": 2,
+      "mouseRadius": 60,
+      "mouseForce": 0.5,
+      "returnSpeed": 0.08,
+      "animationMode": "none",
+      "interactionMode": "glow",
+      "waveSpeed": 0.005,
+      "colorMode": "original",
+      "backgroundColor": "#0a0a0a",
+      "spread": 0.8,
+      "particleShape": "square",
+      "shapeMix": 0.45,
+      "trailLength": 0
+    },
+    "isPublic": true,
+    "createdAt": "2026-03-23T17:36:02.119Z"
   }
 ]
