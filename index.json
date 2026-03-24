@@ -174,5 +174,29 @@
     },
     "isPublic": true,
     "createdAt": "2026-03-24T06:48:36.820Z"
+  },
+  {
+    "id": "drifting-ember-8w9t",
+    "title": "Drifting Ember",
+    "author": "adhd.dev",
+    "sourceType": "image",
+    "particleConfig": {
+      "particleDensity": 3,
+      "particleSize": 1.5,
+      "mouseRadius": 100,
+      "mouseForce": 0.6,
+      "returnSpeed": 0.08,
+      "animationMode": "orbit",
+      "interactionMode": "magnify",
+      "waveSpeed": 0.008,
+      "colorMode": "original",
+      "backgroundColor": "#050510",
+      "spread": 0.8,
+      "particleShape": "square",
+      "shapeMix": 0.3,
+      "trailLength": 0.26
+    },
+    "isPublic": true,
+    "createdAt": "2026-03-24T06:49:56.257Z"
   }
 ]
