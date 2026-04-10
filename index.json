@@ -58,29 +58,5 @@
     },
     "isPublic": false,
     "createdAt": "2026-03-22T15:15:47.499Z"
-  },
-  {
-    "id": "wild-vale-1aio",
-    "title": "Wild Vale",
-    "author": "adhd.dev",
-    "sourceType": "image",
-    "particleConfig": {
-      "particleDensity": 4,
-      "particleSize": 2,
-      "mouseRadius": 60,
-      "mouseForce": 0.5,
-      "returnSpeed": 0.08,
-      "animationMode": "none",
-      "interactionMode": "glow",
-      "waveSpeed": 0.005,
-      "colorMode": "original",
-      "backgroundColor": "#0a0a0a",
-      "spread": 1,
-      "particleShape": "square",
-      "shapeMix": 0,
-      "trailLength": 0
-    },
-    "isPublic": false,
-    "createdAt": "2026-04-10T08:14:29.360Z"
   }
 ]
